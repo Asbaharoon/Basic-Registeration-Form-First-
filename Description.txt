@@ -1,0 +1,11 @@
+Registeration Form: 
+
+Createa Database: 
+
+
+Form
+Form Fields:
+
+Name, age, city, email, CNIC, address
+
+Button: Register
